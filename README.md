@@ -38,3 +38,7 @@ This project demonstrates the use of front-end web technologies to create a digi
 **Mauricio Marinero**
 
 [GitHub profile](https://github.com/MauMar05)
+
+## Live Demo
+
+[Visit the website](https://puchicamanoquerico.netlify.app/)
